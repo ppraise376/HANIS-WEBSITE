@@ -6,7 +6,7 @@ export default function About() {
     "About | HANI'S",
     "Learn more about HANI'S cakes, events and carefully selected imported goods.",
   );
-
+// this is jas
   return (
     <>
       <PageHero eyebrow="Our story" title="Made for special moments and everyday finds." />
